@@ -1,0 +1,577 @@
+4/1 17:01:54.484  You receive item: Roasted Barley Teax5
+4/1 17:01:58.416  [2. Trade] Açucar-Area52: LF FYRAKK HC
+4/1 17:02:06.027  Left Channel: |Hchannel:162489680|h[(null)]|h 
+4/1 17:02:06.028  Left Channel: |Hchannel:162489680|h[(null)]|h 
+4/1 17:02:06.028  Left Channel: |Hchannel:162489680|h[(null)]|h 
+4/2 21:59:37.131  Cousin Slowhands says: Is it dangerous to go alone?
+4/2 21:59:50.874  Changed Channel: |Hchannel:-436968384|h[(null)]|h
+4/2 21:59:50.874  Changed Channel: |Hchannel:-436968384|h[(null)]|h
+4/2 22:00:07.671  Changed Channel: |Hchannel:-436968384|h[(null)]|h
+4/2 22:00:07.671  Changed Channel: |Hchannel:-436968384|h[(null)]|h
+4/2 22:00:49.359  Changed Channel: |Hchannel:-436968384|h[(null)]|h
+4/2 22:00:49.359  Changed Channel: |Hchannel:-436968384|h[(null)]|h
+4/2 22:01:18.181  Tuberros says: Snail slime! One of the best smellies! But the snailettes are a bit stingy. Luckily, we niffen have a special way of gathering some.
+4/2 22:01:43.847  The delicate natural song of the cavern is disrupted by violent, discordant notes!
+4/2 22:01:56.443  Toaime-Whisperwind performs Herb Gathering on Saxifrage.
+4/2 22:01:58.995  Toaime-Whisperwind performs Herb Gathering on Saxifrage.
+4/2 22:02:01.185  You perform Mining on Serevite Deposit.
+4/2 22:02:01.861  You receive loot: Serevite Ore |A:Professions-ChatIcon-Quality-Tier2:17:23::1|ax4
+4/2 22:02:06.421  Rannan Korren says: My goblin cohorts are, uh, really excited for the explosive potential of guanite. If you see any shalewings, they seem to, uh, deposit the stuff.
+4/2 22:02:30.638  You receive item: Silken Gemdust |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax6
+4/2 22:02:30.638  You receive item: Fractured Glassx2
+4/2 22:02:30.638  You receive item: Mystic Sapphire |A:Professions-ChatIcon-Quality-Tier3:17:18::1|a
+4/2 22:02:30.638  You receive item: Eternity Amber |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/2 22:02:30.655  You receive item: Neltharite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/2 22:02:30.655  You receive item: Mystic Sapphire |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/2 22:04:54.780  You receive item: Prismatic Ore
+4/2 22:04:54.780  You receive item: Eternity Amber |A:Professions-ChatIcon-Quality-Tier2:17:23::1|ax2
+4/2 22:04:54.780  You receive item: Crumbled Stonex3
+4/2 22:04:54.894  You receive item: Queen's Ruby |A:Professions-ChatIcon-Quality-Tier1:17:15::1|a
+4/2 22:04:54.906  You receive item: Neltharite |A:Professions-ChatIcon-Quality-Tier1:17:15::1|a
+4/2 22:04:54.906  You receive item: Alexstraszite |A:Professions-ChatIcon-Quality-Tier3:17:18::1|a
+4/2 22:04:54.929  You receive item: Malygite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/2 22:04:56.997  You receive item: Eternity Amber |A:Professions-ChatIcon-Quality-Tier2:17:23::1|ax2
+4/2 22:04:56.997  You receive item: Silken Gemdust |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax2
+4/2 22:04:56.997  You receive item: Crumbled Stonex2
+4/2 22:04:57.012  You receive item: Malygite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|ax2
+4/2 22:04:57.055  You receive item: Vibrant Emerald |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/2 22:04:57.060  You receive item: Ysemerald |A:Professions-ChatIcon-Quality-Tier1:17:15::1|a
+4/2 22:04:57.972  You receive item: Neltharite |A:Professions-ChatIcon-Quality-Tier1:17:15::1|a
+4/2 22:04:57.972  You receive item: Malygite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/2 22:04:57.983  You receive item: Crumbled Stonex3
+4/2 22:04:57.983  You receive item: Eternity Amber |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/2 22:04:58.100  You receive item: Ysemerald |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/2 22:04:58.113  You receive item: Ysemerald |A:Professions-ChatIcon-Quality-Tier3:17:18::1|a
+4/2 22:04:59.002  You receive item: Silken Gemdust |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax6
+4/2 22:04:59.002  You receive item: Neltharite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/2 22:04:59.012  You receive item: Vibrant Emerald |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/2 22:04:59.012  You receive item: Fractured Glassx2
+4/2 22:05:00.004  You receive item: Vibrant Emerald |A:Professions-ChatIcon-Quality-Tier2:17:23::1|ax3
+4/2 22:05:00.004  You receive item: Ysemerald |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/2 22:05:00.015  You receive item: Crumbled Stonex2
+4/2 22:05:00.015  You receive item: Malygite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/2 22:05:00.015  You receive item: Alexstraszite |A:Professions-ChatIcon-Quality-Tier1:17:15::1|a
+4/2 22:05:00.030  You receive item: Sundered Onyx |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/2 22:05:01.038  You receive item: Silken Gemdust |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax3
+4/2 22:05:01.044  You receive item: Ysemerald |A:Professions-ChatIcon-Quality-Tier1:17:15::1|a
+4/2 22:05:01.044  You receive item: Crumbled Stonex3
+4/2 22:05:01.044  You receive item: Eternity Amber |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/2 22:05:01.129  You receive item: Nozdorite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|ax2
+4/2 22:06:27.063  Ryrion creates Aerated Mana Potion.
+4/2 22:06:29.100  Ryrion creates Aerated Mana Potion.
+4/2 22:07:01.490  Zeronesis has defeated Losaria in a duel
+4/2 22:07:08.676  Trixïe seems a little tipsy from the Metok's Bubble Bock.
+4/2 22:07:53.892  Trixïe seems to be sobering up.
+4/2 22:08:10.085  Airì seems a little tipsy from the Metok's Bubble Bock.
+4/2 22:08:56.244  Airì seems to be sobering up.
+4/2 22:09:16.872  Noxxanimus creates Chronocloth Reagent Bag.
+4/2 22:11:29.656  FRIEND_OFFLINE
+4/2 22:12:09.990  Megzz creates Khaz'gorite Fisherfriend.
+4/2 22:12:33.855  Helte creates Aerated Mana Potion.
+4/2 22:12:35.881  Helte creates Aerated Mana Potion.
+4/2 22:13:27.172  Losaria dances with Zeronesis.
+4/2 22:13:34.506  Journeyman Envial says: Gems so bright you'll want to shine your scales! Come browse the work of the finest jewelcrafters in the Dragon Isles.
+4/2 22:15:01.053  Gohfyrr says: Sorry, we don't sell healing potions. I can sell you vials if you want to make your own healing potions?
+4/2 22:15:27.269  Adventurer Rugan says: No... No. Thank you though. Have a good day.
+4/2 22:15:28.434  Adventurer Rugan says: Diani is going to give me so much hassle over this.
+4/2 22:17:31.737  Zeronesis has defeated Losaria in a duel
+4/2 22:18:45.184  Zeronesis has defeated Losaria in a duel
+4/2 22:19:28.746  Apprentice Caretaker Zefren says: Hello, I was wondering if I would be able to get some building materials sent to a tower in the Waking Shores?
+4/2 22:19:35.180  Apprentice Caretaker Zefren says: Oh and it needs to be very high grade!
+4/2 22:19:42.079  Apprentice Caretaker Zefren says: My goodness, I forgot my gold, I am so sorry! I'll be back later!
+4/2 22:20:56.471  You are now Away: AFK
+4/2 22:21:57.298  Noxxanimus creates Celebratory Cake.
+4/2 22:22:44.143  Denevier creates Skillful Illimited Diamond.
+4/2 22:23:17.959  Sckhar-Stormrage yells: [Common] NE NE NE GLOIN VANDARWOS ! ! !!!
+4/2 22:23:21.394  Sycoshunter's Destroyerofv is dismissed.
+4/2 22:25:00.218  Fartofahero creates Wildercloth Enchanter's Hat.
+4/2 22:25:02.223  Fartofahero creates Wildercloth Enchanter's Hat.
+4/2 22:25:04.388  Fartofahero creates Wildercloth Enchanter's Hat.
+4/2 22:25:06.422  Fartofahero creates Wildercloth Enchanter's Hat.
+4/2 22:25:08.615  Fartofahero creates Wildercloth Enchanter's Hat.
+4/2 22:25:10.790  Fartofahero creates Wildercloth Enchanter's Hat.
+4/2 22:25:13.125  Fartofahero creates Wildercloth Enchanter's Hat.
+4/2 22:25:15.299  Fartofahero creates Wildercloth Enchanter's Hat.
+4/2 22:25:17.466  Fartofahero creates Wildercloth Enchanter's Hat.
+4/2 22:25:19.700  Fartofahero creates Wildercloth Enchanter's Hat.
+4/2 22:25:21.878  Fartofahero creates Wildercloth Enchanter's Hat.
+4/2 22:25:24.045  Fartofahero creates Wildercloth Enchanter's Hat.
+4/2 22:25:26.045  Fartofahero creates Wildercloth Enchanter's Hat.
+4/2 22:25:28.313  Fartofahero creates Wildercloth Enchanter's Hat.
+4/2 22:25:30.345  Fartofahero creates Wildercloth Enchanter's Hat.
+4/2 22:28:27.763  Journeyman Envial says: Add some shine to your hoard! Gems from across the seas, faceted on demand!
+4/2 22:29:39.232  Purch creates Khaz'gorite Fisherfriend.
+4/2 22:30:41.785  Fartofahero creates Surveyor's Seasoned Pants.
+4/2 22:30:45.488  Fartofahero creates Surveyor's Seasoned Pants.
+4/2 22:30:49.221  Fartofahero creates Surveyor's Seasoned Pants.
+4/2 22:30:52.756  Fartofahero creates Surveyor's Seasoned Pants.
+4/2 22:30:56.390  Fartofahero creates Surveyor's Seasoned Pants.
+4/2 22:31:00.124  Fartofahero creates Surveyor's Seasoned Pants.
+4/2 22:31:03.790  Fartofahero creates Surveyor's Seasoned Pants.
+4/2 22:31:07.356  Fartofahero creates Surveyor's Seasoned Pants.
+4/2 22:31:11.077  Fartofahero creates Surveyor's Seasoned Pants.
+4/2 22:31:14.373  Maxelus creates Draconium Blacksmith's Hammer.
+4/2 22:31:14.639  Fartofahero creates Surveyor's Seasoned Pants.
+4/2 22:31:15.073  Maxelus creates Draconium Blacksmith's Hammer.
+4/2 22:31:18.139  Fartofahero creates Surveyor's Seasoned Pants.
+4/2 22:31:21.839  Fartofahero creates Surveyor's Seasoned Pants.
+4/2 22:31:25.473  Fartofahero creates Surveyor's Seasoned Pants.
+4/2 22:31:29.073  Fartofahero creates Surveyor's Seasoned Pants.
+4/2 22:31:32.740  Fartofahero creates Surveyor's Seasoned Pants.
+4/2 22:31:36.272  Fartofahero creates Surveyor's Seasoned Pants.
+4/2 22:31:39.873  Fartofahero creates Surveyor's Seasoned Pants.
+4/2 22:31:43.542  Fartofahero creates Surveyor's Seasoned Pants.
+4/2 22:31:47.319  Fartofahero creates Surveyor's Seasoned Pants.
+4/2 22:31:50.896  Fartofahero creates Surveyor's Seasoned Pants.
+4/2 22:31:54.533  Fartofahero creates Surveyor's Seasoned Pants.
+4/2 22:31:58.200  Fartofahero creates Surveyor's Seasoned Pants.
+4/2 22:32:01.845  Fartofahero creates Surveyor's Seasoned Pants.
+4/2 22:32:05.462  Fartofahero creates Surveyor's Seasoned Pants.
+4/2 22:32:09.146  Fartofahero creates Surveyor's Seasoned Pants.
+4/2 22:32:12.715  Fartofahero creates Surveyor's Seasoned Pants.
+4/2 22:32:16.314  Fartofahero creates Surveyor's Seasoned Pants.
+4/2 22:32:27.280  Mcdread creates Draconium Blacksmith's Hammer.
+4/2 22:32:30.947  Mcdread creates Draconium Blacksmith's Hammer.
+4/2 22:33:12.348  Fartofahero creates Wildercloth Bolt.
+4/2 22:33:13.912  Fartofahero creates Wildercloth Bolt.
+4/2 22:33:15.546  Fartofahero creates Wildercloth Bolt.
+4/2 22:33:17.245  Fartofahero creates Wildercloth Bolt.
+4/2 22:33:18.814  Fartofahero creates Wildercloth Bolt.
+4/2 22:33:20.447  Fartofahero creates Wildercloth Bolt.
+4/2 22:33:22.079  Fartofahero creates Wildercloth Bolt.
+4/2 22:33:24.179  Fartofahero creates Wildercloth Bolt.
+4/2 22:33:26.012  Fartofahero creates Wildercloth Bolt.
+4/2 22:33:27.545  Fartofahero creates Wildercloth Bolt.
+4/2 22:33:29.079  Fartofahero creates Wildercloth Bolt.
+4/2 22:33:30.779  Fartofahero creates Wildercloth Bolt.
+4/2 22:33:32.379  Fartofahero creates Wildercloth Bolt.
+4/2 22:33:33.979  Fartofahero creates Wildercloth Bolt.
+4/2 22:33:35.682  Fartofahero creates Wildercloth Bolt.
+4/2 22:33:37.315  Fartofahero creates Wildercloth Bolt.
+4/2 22:33:38.848  Fartofahero creates Wildercloth Bolt.
+4/2 22:33:40.515  Fartofahero creates Wildercloth Bolt.
+4/2 22:33:42.115  Fartofahero creates Wildercloth Bolt.
+4/2 22:33:43.682  Fartofahero creates Wildercloth Bolt.
+4/2 22:33:45.384  Fartofahero creates Wildercloth Bolt.
+4/2 22:33:47.017  Fartofahero creates Wildercloth Bolt.
+4/2 22:33:48.719  Fartofahero creates Wildercloth Bolt.
+4/2 22:33:50.417  Fartofahero creates Wildercloth Bolt.
+4/2 22:33:51.954  Fartofahero creates Wildercloth Bolt.
+4/2 22:33:53.554  Fartofahero creates Wildercloth Bolt.
+4/2 22:33:55.188  Fartofahero creates Wildercloth Bolt.
+4/2 22:33:56.836  Fartofahero creates Wildercloth Bolt.
+4/2 22:33:58.470  Fartofahero creates Wildercloth Bolt.
+4/2 22:34:00.136  Fartofahero creates Wildercloth Bolt.
+4/2 22:34:01.804  Fartofahero creates Wildercloth Bolt.
+4/2 22:34:03.473  Fartofahero creates Wildercloth Bolt.
+4/2 22:34:05.042  Fartofahero creates Wildercloth Bolt.
+4/2 22:34:06.607  Fartofahero creates Wildercloth Bolt.
+4/2 22:34:08.348  Fartofahero creates Wildercloth Bolt.
+4/2 22:34:10.108  Fartofahero creates Wildercloth Bolt.
+4/2 22:34:11.874  Fartofahero creates Wildercloth Bolt.
+4/2 22:34:13.507  Fartofahero creates Wildercloth Bolt.
+4/2 22:34:15.174  Fartofahero creates Wildercloth Bolt.
+4/2 22:34:16.775  Fartofahero creates Wildercloth Bolt.
+4/2 22:34:18.375  Fartofahero creates Wildercloth Bolt.
+4/2 22:34:19.978  Fartofahero creates Wildercloth Bolt.
+4/2 22:34:21.611  Fartofahero creates Wildercloth Bolt.
+4/2 22:34:23.311  Fartofahero creates Wildercloth Bolt.
+4/2 22:34:24.912  Fartofahero creates Wildercloth Bolt.
+4/2 22:34:26.478  Fartofahero creates Wildercloth Bolt.
+4/2 22:34:28.146  Fartofahero creates Wildercloth Bolt.
+4/2 22:34:29.744  Fartofahero creates Wildercloth Bolt.
+4/2 22:34:31.378  Fartofahero creates Wildercloth Bolt.
+4/2 22:34:33.044  Fartofahero creates Wildercloth Bolt.
+4/2 22:34:34.577  Fartofahero creates Wildercloth Bolt.
+4/2 22:34:36.211  Fartofahero creates Wildercloth Bolt.
+4/2 22:34:37.878  Fartofahero creates Wildercloth Bolt.
+4/2 22:34:39.578  Fartofahero creates Wildercloth Bolt.
+4/2 22:34:41.077  Fartofahero creates Wildercloth Bolt.
+4/2 22:34:42.681  Fartofahero creates Wildercloth Bolt.
+4/2 22:34:44.313  Fartofahero creates Wildercloth Bolt.
+4/2 22:34:45.880  Fartofahero creates Wildercloth Bolt.
+4/2 22:34:47.581  Fartofahero creates Wildercloth Bolt.
+4/2 22:34:49.180  Fartofahero creates Wildercloth Bolt.
+4/2 22:34:50.747  Fartofahero creates Wildercloth Bolt.
+4/2 22:34:52.415  Fartofahero creates Wildercloth Bolt.
+4/2 22:34:54.020  Fartofahero creates Wildercloth Bolt.
+4/2 22:34:55.613  Fartofahero creates Wildercloth Bolt.
+4/2 22:34:57.280  Fartofahero creates Wildercloth Bolt.
+4/2 22:34:58.980  Fartofahero creates Wildercloth Bolt.
+4/2 22:35:00.580  Fartofahero creates Wildercloth Bolt.
+4/2 22:35:02.213  Fartofahero creates Wildercloth Bolt.
+4/2 22:35:03.847  Fartofahero creates Wildercloth Bolt.
+4/2 22:35:05.446  Fartofahero creates Wildercloth Bolt.
+4/2 22:35:07.080  Fartofahero creates Wildercloth Bolt.
+4/2 22:35:08.656  Fartofahero creates Wildercloth Bolt.
+4/2 22:35:10.222  Fartofahero creates Wildercloth Bolt.
+4/2 22:35:11.856  Fartofahero creates Wildercloth Bolt.
+4/2 22:35:13.389  Fartofahero creates Wildercloth Bolt.
+4/2 22:35:15.123  Fartofahero creates Wildercloth Bolt.
+4/2 22:35:16.722  Fartofahero creates Wildercloth Bolt.
+4/2 22:35:18.355  Fartofahero creates Wildercloth Bolt.
+4/2 22:35:19.890  Fartofahero creates Wildercloth Bolt.
+4/2 22:35:21.523  Fartofahero creates Wildercloth Bolt.
+4/2 22:35:23.122  Fartofahero creates Wildercloth Bolt.
+4/2 22:35:24.988  Fartofahero creates Wildercloth Bolt.
+4/2 22:35:27.222  Fartofahero creates Wildercloth Bolt.
+4/2 22:35:28.890  Fartofahero creates Wildercloth Bolt.
+4/2 22:35:30.488  Fartofahero creates Wildercloth Bolt.
+4/2 22:35:32.155  Fartofahero creates Wildercloth Bolt.
+4/2 22:35:33.897  Fartofahero creates Wildercloth Bolt.
+4/2 22:35:35.597  Fartofahero creates Wildercloth Bolt.
+4/2 22:35:36.968  Bussyquaker creates Lydiara's Binding Rune.
+4/2 22:35:37.234  Fartofahero creates Wildercloth Bolt.
+4/2 22:35:38.774  Fartofahero creates Wildercloth Bolt.
+4/2 22:35:39.712  Iberredie creates Illustrious Insight.
+4/2 22:35:40.409  Fartofahero creates Wildercloth Bolt.
+4/2 22:35:42.025  Fartofahero creates Wildercloth Bolt.
+4/2 22:35:43.728  Fartofahero creates Wildercloth Bolt.
+4/2 22:35:44.061  Iberredie creates Resplendent Illimited Diamond.
+4/2 22:35:45.362  Fartofahero creates Wildercloth Bolt.
+4/2 22:35:46.896  Fartofahero creates Wildercloth Bolt.
+4/2 22:35:48.528  Fartofahero creates Wildercloth Bolt.
+4/2 22:35:50.062  Fartofahero creates Wildercloth Bolt.
+4/2 22:35:51.770  Fartofahero creates Wildercloth Bolt.
+4/2 22:35:53.403  Fartofahero creates Wildercloth Bolt.
+4/2 22:35:55.136  Fartofahero creates Wildercloth Bolt.
+4/2 22:36:26.627  Datkindaörc creates Draconium Encased Samophlange.
+4/2 22:36:38.038  Datkindaörc creates Shock-Spring Coil.
+4/2 22:36:41.338  Datkindaörc creates Greased-Up Gears.
+4/2 22:36:47.673  Fartofahero creates Vibrant Wildercloth Bolt.
+4/2 22:36:47.972  Datkindaörc creates Draconium Encased Samophlange.
+4/2 22:36:49.306  Fartofahero creates Vibrant Wildercloth Bolt.
+4/2 22:36:50.972  Fartofahero creates Vibrant Wildercloth Bolt.
+4/2 22:36:52.639  Fartofahero creates Vibrant Wildercloth Bolt.
+4/2 22:36:54.238  Fartofahero creates Vibrant Wildercloth Bolt.
+4/2 22:36:55.772  Fartofahero creates Vibrant Wildercloth Bolt.
+4/2 22:36:57.472  Fartofahero creates Vibrant Wildercloth Bolt.
+4/2 22:36:59.072  Fartofahero creates Vibrant Wildercloth Bolt.
+4/2 22:37:01.005  Fartofahero creates Vibrant Wildercloth Bolt.
+4/2 22:37:02.605  Fartofahero creates Vibrant Wildercloth Bolt.
+4/2 22:37:04.172  Fartofahero creates Vibrant Wildercloth Bolt.
+4/2 22:37:05.838  Fartofahero creates Vibrant Wildercloth Bolt.
+4/2 22:38:29.952  Chôôtem creates Vibrant Wildercloth Shawl.
+4/2 22:39:07.472  Fartofahero creates Surveyor's Seasoned Hood.
+4/2 22:39:11.105  Fartofahero creates Surveyor's Seasoned Hood.
+4/2 22:39:14.805  Fartofahero creates Surveyor's Seasoned Hood.
+4/2 22:39:18.472  Fartofahero creates Surveyor's Seasoned Hood.
+4/2 22:39:22.114  Fartofahero creates Surveyor's Seasoned Hood.
+4/2 22:39:25.749  Fartofahero creates Surveyor's Seasoned Hood.
+4/2 22:39:29.416  Fartofahero creates Surveyor's Seasoned Hood.
+4/2 22:39:33.049  Fartofahero creates Surveyor's Seasoned Hood.
+4/2 22:39:36.686  Fartofahero creates Surveyor's Seasoned Hood.
+4/2 22:39:40.219  Fartofahero creates Surveyor's Seasoned Hood.
+4/2 22:41:00.153  Velesar creates Phial of Glacial Fury.
+4/2 22:41:05.087  Velesar creates Phial of the Eye in the Storm.
+4/2 22:41:09.921  Velesar creates Phial of Still Air.
+4/2 22:41:14.721  Velesar creates Potion of Frozen Fatality.
+4/2 22:42:27.134  Nihan seems a little tipsy from the Metok's Bubble Bock.
+4/2 22:43:14.143  Nihan seems to be sobering up.
+4/2 22:43:44.278  Urlivia creates Wildercloth Bolt.
+4/2 22:43:55.511  Maarisa creates Illustrious Insight.
+4/2 22:43:57.678  Maarisa creates Illustrious Insight.
+4/2 22:44:08.811  Maarisa creates Runed Khaz'gorite Rod.
+4/2 22:45:56.451  You have been inactive for some time and will be logged out of the game. If you wish to remain logged in, hit the cancel button.
+4/2 22:46:16.550  You have been inactive for some time and will be logged out of the game. If you wish to remain logged in, hit the cancel button.
+4/3 22:52:04.805  You receive item: Nozdorite |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax2
+4/3 22:52:04.811  You receive item: Nozdorite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|ax2
+4/3 22:52:04.811  You receive item: Neltharite |A:Professions-ChatIcon-Quality-Tier3:17:18::1|ax2
+4/3 22:52:04.811  You receive item: Sundered Onyx |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/3 22:52:04.811  You receive item: Fractured Glassx2
+4/3 22:52:05.825  You receive item: Nozdorite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/3 22:52:05.825  You receive item: Vibrant Emerald |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax3
+4/3 22:52:05.825  You receive item: Neltharite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/3 22:52:05.825  You receive item: Malygite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|ax2
+4/3 22:52:05.841  You receive item: Crumbled Stonex2
+4/3 22:52:05.841  You receive item: Queen's Ruby |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/3 22:52:06.774  You receive item: Neltharite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|ax2
+4/3 22:52:06.779  You receive item: Crumbled Stonex3
+4/3 22:52:06.779  You receive item: Mystic Sapphire |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax2
+4/3 22:52:06.779  You receive item: Eternity Amber |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/3 22:52:06.846  You receive item: Malygite |A:Professions-ChatIcon-Quality-Tier1:17:15::1|a
+4/3 22:52:07.709  You receive item: Mystic Sapphire |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax2
+4/3 22:52:07.715  You receive item: Nozdorite |A:Professions-ChatIcon-Quality-Tier1:17:15::1|a
+4/3 22:52:07.715  You receive item: Malygite |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax2
+4/3 22:52:07.715  You receive item: Crumbled Stonex2
+4/3 22:52:07.731  You receive item: Sundered Onyx |A:Professions-ChatIcon-Quality-Tier3:17:18::1|a
+4/3 22:52:07.731  You receive item: Alexstraszite |A:Professions-ChatIcon-Quality-Tier3:17:18::1|a
+4/3 22:52:08.750  You receive item: Malygite |A:Professions-ChatIcon-Quality-Tier1:17:15::1|a
+4/3 22:52:08.750  You receive item: Fractured Glassx2
+4/3 22:52:08.750  You receive item: Nozdorite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/3 22:52:08.765  You receive item: Mystic Sapphire |A:Professions-ChatIcon-Quality-Tier2:17:23::1|ax3
+4/3 22:52:08.765  You receive item: Malygite |A:Professions-ChatIcon-Quality-Tier3:17:18::1|a
+4/3 22:52:08.765  You receive item: Ysemerald |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/3 22:52:09.740  You receive item: Malygite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/3 22:52:09.740  You receive item: Malygite |A:Professions-ChatIcon-Quality-Tier1:17:15::1|a
+4/3 22:52:09.749  You receive item: Prismatic Ore
+4/3 22:52:09.749  You receive item: Fractured Glassx2
+4/3 22:52:09.749  You receive item: Neltharite |A:Professions-ChatIcon-Quality-Tier3:17:18::1|a
+4/3 22:52:09.858  You receive item: Queen's Ruby |A:Professions-ChatIcon-Quality-Tier1:17:15::1|a
+4/3 22:52:09.858  You receive item: Eternity Amber |A:Professions-ChatIcon-Quality-Tier3:17:18::1|a
+4/3 22:52:10.731  You receive item: Malygite |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax2
+4/3 22:52:10.731  You receive item: Fractured Glassx4
+4/3 22:52:10.731  You receive item: Eternity Amber |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/3 22:52:10.731  You receive item: Malygite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/3 22:52:10.804  You receive item: Nozdorite |A:Professions-ChatIcon-Quality-Tier3:17:18::1|a
+4/3 22:52:10.809  You receive item: Alexstraszite |A:Professions-ChatIcon-Quality-Tier1:17:15::1|a
+4/3 22:52:11.800  You receive item: Eternity Amber |A:Professions-ChatIcon-Quality-Tier3:17:18::1|ax2
+4/3 22:52:11.800  You receive item: Nozdorite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/3 22:52:11.812  You receive item: Eternity Amber |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/3 22:52:11.812  You receive item: Fractured Glassx4
+4/3 22:52:11.812  You receive item: Malygite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/3 22:52:11.828  You receive item: Ysemerald |A:Professions-ChatIcon-Quality-Tier3:17:18::1|a
+4/3 22:52:11.828  You receive item: Alexstraszite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/3 22:52:12.625  You receive item: Alexstraszite |A:Professions-ChatIcon-Quality-Tier3:17:18::1|a
+4/3 22:52:12.625  You receive item: Malygite |A:Professions-ChatIcon-Quality-Tier3:17:18::1|a
+4/3 22:52:12.625  You receive item: Crumbled Stonex3
+4/3 22:52:12.641  You receive item: Queen's Ruby |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/3 22:52:12.641  You receive item: Ysemerald |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/3 22:52:12.641  You receive item: Silken Gemdust |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax3
+4/3 22:52:13.460  You receive item: Queen's Ruby |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax2
+4/3 22:52:13.466  You receive item: Nozdorite |A:Professions-ChatIcon-Quality-Tier1:17:15::1|a
+4/3 22:52:13.466  You receive item: Neltharite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|ax2
+4/3 22:52:13.466  You receive item: Crumbled Stonex2
+4/3 22:52:13.480  You receive item: Sundered Onyx |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/3 22:52:13.480  You receive item: Alexstraszite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:01:27.113  You receive item: Vibrant Emerald |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax2
+4/5 16:01:27.113  You receive item: Nozdorite |A:Professions-ChatIcon-Quality-Tier1:17:15::1|a
+4/5 16:01:27.125  You receive item: Nozdorite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:01:27.125  You receive item: Fractured Glassx2
+4/5 16:01:27.125  You receive item: Eternity Amber |A:Professions-ChatIcon-Quality-Tier3:17:18::1|a
+4/5 16:01:27.139  You receive item: Malygite |A:Professions-ChatIcon-Quality-Tier3:17:18::1|a
+4/5 16:01:28.158  You receive item: Mystic Sapphire |A:Professions-ChatIcon-Quality-Tier1:17:15::1|a
+4/5 16:01:28.158  You receive item: Malygite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:01:28.168  You receive item: Alexstraszite |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax2
+4/5 16:01:28.168  You receive item: Crumbled Stonex2
+4/5 16:01:28.168  You receive item: Queen's Ruby |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:01:28.168  You receive item: Nozdorite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:01:29.093  You receive item: Sundered Onyx |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:01:29.093  You receive item: Malygite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:01:29.093  You receive item: Nozdorite |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax2
+4/5 16:01:29.108  You receive item: Fractured Glassx4
+4/5 16:01:29.108  You receive item: Nozdorite |A:Professions-ChatIcon-Quality-Tier3:17:18::1|a
+4/5 16:01:29.108  You receive item: Vibrant Emerald |A:Professions-ChatIcon-Quality-Tier3:17:18::1|a
+4/5 16:01:30.071  You receive item: Nozdorite |A:Professions-ChatIcon-Quality-Tier3:17:18::1|a
+4/5 16:01:30.076  You receive item: Ysemerald |A:Professions-ChatIcon-Quality-Tier3:17:18::1|a
+4/5 16:01:30.076  You receive item: Fractured Glassx4
+4/5 16:01:30.076  You receive item: Sundered Onyx |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:01:30.076  You receive item: Alexstraszite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:01:30.094  You receive item: Ysemerald |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax2
+4/5 16:01:30.953  You receive item: Silken Gemdust |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax2
+4/5 16:01:30.953  You receive item: Malygite |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax2
+4/5 16:01:30.953  You receive item: Malygite |A:Professions-ChatIcon-Quality-Tier3:17:18::1|a
+4/5 16:01:30.967  You receive item: Fractured Glassx3
+4/5 16:01:30.967  You receive item: Queen's Ruby |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:01:30.967  You receive item: Neltharite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:01:31.883  You receive item: Vibrant Emerald |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax3
+4/5 16:01:31.889  You receive item: Ysemerald |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax2
+4/5 16:01:31.889  You receive item: Neltharite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:01:31.889  You receive item: Crumbled Stonex2
+4/5 16:01:31.903  You receive item: Eternity Amber |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:01:31.903  You receive item: Alexstraszite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:01:32.776  You receive item: Malygite |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax2
+4/5 16:01:32.782  You receive item: Neltharite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:01:32.782  You receive item: Alexstraszite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:01:32.782  You receive item: Crumbled Stonex3
+4/5 16:01:32.796  You receive item: Malygite |A:Professions-ChatIcon-Quality-Tier3:17:18::1|a
+4/5 16:01:32.796  You receive item: Nozdorite |A:Professions-ChatIcon-Quality-Tier3:17:18::1|a
+4/5 16:01:33.643  You receive item: Queen's Ruby |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:01:33.643  You receive item: Nozdorite |A:Professions-ChatIcon-Quality-Tier3:17:18::1|a
+4/5 16:01:33.654  You receive item: Silken Gemdust |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax2
+4/5 16:01:33.726  You receive item: Fractured Glassx2
+4/5 16:01:33.732  You receive item: Malygite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:01:33.732  You receive item: Vibrant Emerald |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:01:34.564  You receive item: Neltharite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|ax2
+4/5 16:01:34.564  You receive item: Ysemerald |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:01:34.574  You receive item: Nozdorite |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax2
+4/5 16:01:34.574  You receive item: Prismatic Ore
+4/5 16:01:34.574  You receive item: Eternity Amber |A:Professions-ChatIcon-Quality-Tier2:17:23::1|ax2
+4/5 16:01:34.574  You receive item: Fractured Glassx2
+4/5 16:01:35.456  You receive item: Vibrant Emerald |A:Professions-ChatIcon-Quality-Tier2:17:23::1|ax3
+4/5 16:01:35.456  You receive item: Silken Gemdust |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax4
+4/5 16:01:35.467  You receive item: Nozdorite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|ax2
+4/5 16:01:35.467  You receive item: Fractured Glassx3
+4/5 16:01:36.414  You receive item: Malygite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:01:36.419  You receive item: Malygite |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax2
+4/5 16:01:36.419  You receive item: Nozdorite |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax2
+4/5 16:01:36.419  You receive item: Crumbled Stonex2
+4/5 16:01:36.433  You receive item: Alexstraszite |A:Professions-ChatIcon-Quality-Tier3:17:18::1|a
+4/5 16:01:36.433  You receive item: Nozdorite |A:Professions-ChatIcon-Quality-Tier3:17:18::1|a
+4/5 16:01:36.433  You receive item: Khaz'gorite Ore |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax2
+4/5 16:01:37.341  You receive item: Silken Gemdust |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax2
+4/5 16:01:37.341  You receive item: Crumbled Stonex2
+4/5 16:01:37.341  You receive item: Eternity Amber |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:01:37.356  You receive item: Alexstraszite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:01:37.356  You receive item: Neltharite |A:Professions-ChatIcon-Quality-Tier1:17:15::1|a
+4/5 16:01:37.356  You receive item: Illimited Diamond |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:01:38.260  You receive item: Queen's Ruby |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax2
+4/5 16:01:38.266  You receive item: Silken Gemdust |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax3
+4/5 16:01:38.266  You receive item: Alexstraszite |A:Professions-ChatIcon-Quality-Tier1:17:15::1|a
+4/5 16:01:38.266  You receive item: Eternity Amber |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:01:38.281  You receive item: Crumbled Stonex2
+4/5 16:01:38.281  You receive item: Vibrant Emerald |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:01:38.281  You receive item: Neltharite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:01:39.105  You receive item: Silken Gemdust |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax2
+4/5 16:01:39.105  You receive item: Ysemerald |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax2
+4/5 16:01:39.105  You receive item: Neltharite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:01:39.105  You receive item: Fractured Glassx2
+4/5 16:01:39.125  You receive item: Eternity Amber |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:01:40.127  You receive item: Ysemerald |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax2
+4/5 16:01:40.127  You receive item: Ysemerald |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:01:40.138  You receive item: Eternity Amber |A:Professions-ChatIcon-Quality-Tier2:17:23::1|ax2
+4/5 16:01:40.138  You receive item: Fractured Glassx4
+4/5 16:01:40.138  You receive item: Malygite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:01:40.138  You receive item: Sundered Onyx |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax2
+4/5 16:01:41.172  You receive item: Vibrant Emerald |A:Professions-ChatIcon-Quality-Tier3:17:18::1|ax2
+4/5 16:01:41.172  You receive item: Neltharite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|ax2
+4/5 16:01:41.172  You receive item: Neltharite |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax2
+4/5 16:01:41.188  You receive item: Crumbled Stonex2
+4/5 16:01:41.188  You receive item: Ysemerald |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:01:42.054  You receive item: Nozdorite |A:Professions-ChatIcon-Quality-Tier1:17:15::1|a
+4/5 16:01:42.060  You receive item: Neltharite |A:Professions-ChatIcon-Quality-Tier1:17:15::1|a
+4/5 16:01:42.060  You receive item: Ysemerald |A:Professions-ChatIcon-Quality-Tier3:17:18::1|a
+4/5 16:01:42.060  You receive item: Fractured Glassx2
+4/5 16:01:42.075  You receive item: Alexstraszite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:01:42.075  You receive item: Ysemerald |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:01:42.930  You receive item: Malygite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:01:42.935  You receive item: Neltharite |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax4
+4/5 16:01:42.935  You receive item: Ysemerald |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:01:42.935  You receive item: Crumbled Stonex3
+4/5 16:01:42.935  You receive item: Eternity Amber |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:01:43.810  You receive item: Ysemerald |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:01:43.810  You receive item: Alexstraszite |A:Professions-ChatIcon-Quality-Tier3:17:18::1|a
+4/5 16:01:43.810  You receive item: Malygite |A:Professions-ChatIcon-Quality-Tier1:17:15::1|a
+4/5 16:01:43.826  You receive item: Crumbled Stonex2
+4/5 16:01:43.826  You receive item: Vibrant Emerald |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:01:43.826  You receive item: Eternity Amber |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:01:43.841  You receive item: Malygite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:01:44.783  You receive item: Ysemerald |A:Professions-ChatIcon-Quality-Tier3:17:18::1|ax2
+4/5 16:01:44.783  You receive item: Silken Gemdust |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax3
+4/5 16:01:44.794  You receive item: Ysemerald |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:01:44.794  You receive item: Fractured Glassx3
+4/5 16:01:44.794  You receive item: Eternity Amber |A:Professions-ChatIcon-Quality-Tier3:17:18::1|a
+4/5 16:01:44.809  You receive item: Khaz'gorite Ore |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax2
+4/5 16:01:50.213  Left Channel: |Hchannel:579823696|h[(null)]|h 
+4/5 16:01:50.213  Left Channel: |Hchannel:579823696|h[(null)]|h 
+4/5 16:03:59.287  You receive item: Ysemerald |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:03:59.293  You receive item: Neltharite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:03:59.293  You receive item: Nozdorite |A:Professions-ChatIcon-Quality-Tier1:17:15::1|a
+4/5 16:03:59.293  You receive item: Eternity Amber |A:Professions-ChatIcon-Quality-Tier3:17:18::1|ax2
+4/5 16:03:59.310  You receive item: Crumbled Stonex3
+4/5 16:03:59.310  You receive item: Malygite |A:Professions-ChatIcon-Quality-Tier3:17:18::1|a
+4/5 16:03:59.310  You receive item: Mystic Sapphire |A:Professions-ChatIcon-Quality-Tier3:17:18::1|a
+4/5 16:04:00.034  You receive item: Neltharite |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax2
+4/5 16:04:00.034  You receive item: Nozdorite |A:Professions-ChatIcon-Quality-Tier3:17:18::1|a
+4/5 16:04:00.046  You receive item: Alexstraszite |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax2
+4/5 16:04:00.046  You receive item: Crumbled Stonex2
+4/5 16:04:00.046  You receive item: Neltharite |A:Professions-ChatIcon-Quality-Tier3:17:18::1|a
+4/5 16:04:00.176  You receive item: Queen's Ruby |A:Professions-ChatIcon-Quality-Tier3:17:18::1|a
+4/5 16:04:01.024  You receive item: Silken Gemdust |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax3
+4/5 16:04:01.030  You receive item: Malygite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|ax2
+4/5 16:04:01.030  You receive item: Neltharite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:04:01.030  You receive item: Crumbled Stonex2
+4/5 16:04:01.047  You receive item: Alexstraszite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:04:01.928  You receive item: Vibrant Emerald |A:Professions-ChatIcon-Quality-Tier2:17:23::1|ax2
+4/5 16:04:01.934  You receive item: Alexstraszite |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax2
+4/5 16:04:01.934  You receive item: Nozdorite |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax2
+4/5 16:04:01.934  You receive item: Fractured Glassx2
+4/5 16:04:01.950  You receive item: Malygite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:04:01.950  You receive item: Nozdorite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:04:02.838  You receive item: Silken Gemdust |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax3
+4/5 16:04:02.845  You receive item: Malygite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|ax2
+4/5 16:04:02.845  You receive item: Nozdorite |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax2
+4/5 16:04:02.857  You receive item: Crumbled Stonex2
+4/5 16:04:02.857  You receive item: Queen's Ruby |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:04:03.857  You receive item: Sundered Onyx |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax2
+4/5 16:04:03.857  You receive item: Neltharite |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax2
+4/5 16:04:03.857  You receive item: Alexstraszite |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax2
+4/5 16:04:03.875  You receive item: Fractured Glassx3
+4/5 16:04:03.875  You receive item: Sundered Onyx |A:Professions-ChatIcon-Quality-Tier3:17:18::1|a
+4/5 16:04:03.887  You receive item: Nozdorite |A:Professions-ChatIcon-Quality-Tier3:17:18::1|a
+4/5 16:04:05.043  You receive item: Queen's Ruby |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax2
+4/5 16:04:05.043  You receive item: Neltharite |A:Professions-ChatIcon-Quality-Tier1:17:15::1|a
+4/5 16:04:05.043  You receive item: Silken Gemdust |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax2
+4/5 16:04:05.059  You receive item: Eternity Amber |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:04:05.059  You receive item: Fractured Glassx2
+4/5 16:04:05.059  You receive item: Nozdorite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:04:05.059  You receive item: Malygite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:04:06.041  You receive item: Mystic Sapphire |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax3
+4/5 16:04:06.046  You receive item: Silken Gemdust |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax3
+4/5 16:04:06.046  You receive item: Alexstraszite |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax2
+4/5 16:04:06.046  You receive item: Crumbled Stonex2
+4/5 16:04:06.061  You receive item: Mystic Sapphire |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:04:06.061  You receive item: Malygite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:04:06.928  You receive item: Ysemerald |A:Professions-ChatIcon-Quality-Tier2:17:23::1|ax2
+4/5 16:04:06.928  You receive item: Alexstraszite |A:Professions-ChatIcon-Quality-Tier3:17:18::1|a
+4/5 16:04:06.938  You receive item: Nozdorite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:04:06.938  You receive item: Crumbled Stonex2
+4/5 16:04:06.938  You receive item: Eternity Amber |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:04:07.987  You receive item: Mystic Sapphire |A:Professions-ChatIcon-Quality-Tier3:17:18::1|ax2
+4/5 16:04:07.987  You receive item: Silken Gemdust |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax2
+4/5 16:04:07.998  You receive item: Alexstraszite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:04:07.998  You receive item: Crumbled Stonex3
+4/5 16:04:07.998  You receive item: Sundered Onyx |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:04:08.012  You receive item: Ysemerald |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:04:08.774  You receive item: Alexstraszite |A:Professions-ChatIcon-Quality-Tier1:17:15::1|a
+4/5 16:04:08.780  You receive item: Nozdorite |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax2
+4/5 16:04:08.780  You receive item: Nozdorite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:04:08.780  You receive item: Crumbled Stonex2
+4/5 16:04:08.794  You receive item: Mystic Sapphire |A:Professions-ChatIcon-Quality-Tier3:17:18::1|a
+4/5 16:04:08.794  You receive item: Neltharite |A:Professions-ChatIcon-Quality-Tier3:17:18::1|a
+4/5 16:04:09.671  You receive item: Vibrant Emerald |A:Professions-ChatIcon-Quality-Tier2:17:23::1|ax2
+4/5 16:04:09.671  You receive item: Alexstraszite |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax2
+4/5 16:04:09.671  You receive item: Ysemerald |A:Professions-ChatIcon-Quality-Tier3:17:18::1|a
+4/5 16:04:09.686  You receive item: Crumbled Stonex3
+4/5 16:04:09.686  You receive item: Queen's Ruby |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:04:09.686  You receive item: Nozdorite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:04:10.558  You receive item: Neltharite |A:Professions-ChatIcon-Quality-Tier3:17:18::1|a
+4/5 16:04:10.558  You receive item: Ysemerald |A:Professions-ChatIcon-Quality-Tier1:17:15::1|a
+4/5 16:04:10.558  You receive item: Prismatic Ore
+4/5 16:04:10.576  You receive item: Crumbled Stonex2
+4/5 16:04:10.576  You receive item: Mystic Sapphire |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:04:10.576  You receive item: Malygite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:04:10.594  You receive item: Eternity Amber |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax3
+4/5 16:04:11.529  You receive item: Ysemerald |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:04:11.529  You receive item: Nozdorite |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax3
+4/5 16:04:11.529  You receive item: Neltharite |A:Professions-ChatIcon-Quality-Tier3:17:18::1|a
+4/5 16:04:11.545  You receive item: Crumbled Stonex3
+4/5 16:04:11.545  You receive item: Alexstraszite |A:Professions-ChatIcon-Quality-Tier3:17:18::1|a
+4/5 16:04:12.373  You receive item: Silken Gemdust |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax5
+4/5 16:04:12.373  You receive item: Malygite |A:Professions-ChatIcon-Quality-Tier3:17:18::1|a
+4/5 16:04:12.373  You receive item: Malygite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:04:12.388  You receive item: Crumbled Stonex2
+4/5 16:04:12.388  You receive item: Mystic Sapphire |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:04:13.511  You receive item: Sundered Onyx |A:Professions-ChatIcon-Quality-Tier2:17:23::1|ax2
+4/5 16:04:13.517  You receive item: Malygite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:04:13.517  You receive item: Neltharite |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax2
+4/5 16:04:13.517  You receive item: Fractured Glassx4
+4/5 16:04:13.532  You receive item: Sundered Onyx |A:Professions-ChatIcon-Quality-Tier3:17:18::1|a
+4/5 16:04:13.532  You receive item: Nozdorite |A:Professions-ChatIcon-Quality-Tier3:17:18::1|a
+4/5 16:04:14.279  You receive item: Malygite |A:Professions-ChatIcon-Quality-Tier1:17:15::1|a
+4/5 16:04:14.279  You receive item: Ysemerald |A:Professions-ChatIcon-Quality-Tier3:17:18::1|a
+4/5 16:04:14.279  You receive item: Silken Gemdust |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax3
+4/5 16:04:14.294  You receive item: Crumbled Stonex2
+4/5 16:04:14.294  You receive item: Eternity Amber |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:04:14.294  You receive item: Illimited Diamond |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:04:15.177  You receive item: Nozdorite |A:Professions-ChatIcon-Quality-Tier1:17:15::1|a
+4/5 16:04:15.184  You receive item: Alexstraszite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:04:15.184  You receive item: Alexstraszite |A:Professions-ChatIcon-Quality-Tier3:17:18::1|a
+4/5 16:04:15.184  You receive item: Crumbled Stonex2
+4/5 16:04:15.184  You receive item: Malygite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:04:15.203  You receive item: Ysemerald |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:04:16.230  You receive item: Malygite |A:Professions-ChatIcon-Quality-Tier3:17:18::1|a
+4/5 16:04:16.230  You receive item: Silken Gemdust |A:Professions-ChatIcon-Quality-Tier1:17:15::1|ax3
+4/5 16:04:16.230  You receive item: Neltharite |A:Professions-ChatIcon-Quality-Tier1:17:15::1|a
+4/5 16:04:16.230  You receive item: Crumbled Stonex3
+4/5 16:04:16.250  You receive item: Nozdorite |A:Professions-ChatIcon-Quality-Tier3:17:18::1|a
+4/5 16:04:16.250  You receive item: Illimited Diamond |A:Professions-ChatIcon-Quality-Tier3:17:18::1|a
+4/5 16:04:17.189  You receive item: Alexstraszite |A:Professions-ChatIcon-Quality-Tier1:17:15::1|a
+4/5 16:04:17.189  You receive item: Nozdorite |A:Professions-ChatIcon-Quality-Tier1:17:15::1|a
+4/5 16:04:17.201  You receive item: Nozdorite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:04:17.201  You receive item: Eternity Amber |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:04:17.201  You receive item: Fractured Glassx4
+4/5 16:04:17.215  You receive item: Mystic Sapphire |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:04:17.215  You receive item: Alexstraszite |A:Professions-ChatIcon-Quality-Tier2:17:23::1|a
+4/5 16:05:23.109  Left Channel: |Hchannel:1378903936|h[(null)]|h 
+4/5 16:05:23.109  Left Channel: |Hchannel:1378903936|h[(null)]|h 
