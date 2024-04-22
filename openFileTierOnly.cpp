@@ -89,17 +89,12 @@ vector<int> amountProduced(string filename, int reagentAmount) {
             amount = 1;
         } 
         if (contents[i].find("Tier") != std::string::npos) { // <-- Multiple items (amount section of log == "ax<number>")
-            cout << "Other Material Found: " << endl;
-            cout << contents[i] << endl;
             string amountString = (itemAmounts.substr((startNum+2), (endNum - startNum)));
             
-            cout << amountString << endl;
             if (amountString == "") {
                 amount = 1;
-                cout << amount << endl;
             } else {
             amount = stoi(amountString);
-            cout << amount << endl;
             }
         }
         itemCount.push_back(amount);
@@ -133,7 +128,6 @@ void toCSV(const vector<string> &names, const vector<int> &amounts, int reagentA
         }
     }
 
-    fout << "Prismatic Ore/Reagent" << ',' << "Reagent return: " << (reagentreturn / reagentAmount) << ',' << reagentreturn << "\n";
 }
 
 vector<string> fillAllOrder(ifstream& allnames) { // <-- Fill vector of all possible names in order from a file
